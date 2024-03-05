@@ -1,0 +1,7 @@
+{
+  "name": "efu-program",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "custom"
+}

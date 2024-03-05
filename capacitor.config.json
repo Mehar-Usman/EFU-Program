@@ -1,0 +1,8 @@
+{
+  "appId": "efu.program",
+  "appName": "efu-program",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  }
+}
