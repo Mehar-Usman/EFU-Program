@@ -1,5 +1,5 @@
 <template>
-    <div class="mainContainer  py-10 px-6 sm:px-6 h-[812px]">
+    <div class="mainContainer  py-10 px-6 sm:px-6 bg-[#f9fbff]">
         <!-- Gradient Circle  -->
         <header>
             <div class="flex justify-center py-10 sm:py-4 ">
